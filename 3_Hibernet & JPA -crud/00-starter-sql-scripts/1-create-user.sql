@@ -1,0 +1,6 @@
+DROP USER if exists 'springstudent'@'localhost';
+
+-- creating new user 
+CREATE USER 'springstudent'@'localhost' IDENTIFIED BY 'springstudent';
+
+GRANT ALL PRIVILEGES ON * . * TO 'springstudent'@'localhost';

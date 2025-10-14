@@ -1,0 +1,5 @@
+/api/employees?sort=firstName --> sort based on first name 
+
+/api/employees?sort=lastName   --> sort based on last name
+
+and we can sort on any based

@@ -1,0 +1,17 @@
+1. no need to open any IDE
+2. open cmd
+3.no need for separate Server
+4.everything is contained in .jar file
+
+Start 2 ways
+
+	before any one do packging by : mvnw package
+
+	1.just type "java -jar the_New_File_Created_During_Packging.jar" and done
+
+	2.using mvnw.cmd
+			
+		mvnw spring-boot:run
+
+
+TO STOP :- ctrl + c

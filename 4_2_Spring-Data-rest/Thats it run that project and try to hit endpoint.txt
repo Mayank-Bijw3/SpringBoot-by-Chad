@@ -1,0 +1,13 @@
+findAll - http://localhost:8080/employees -- get
+
+findById - http://localhost:8080/employees/1 -- get
+
+save - http://localhost:8080/employees  -- post(with all data of new emp)
+
+updatebyId - http://localhost:8080/employees/2 --post(with email or other)
+
+deleteById -  http://localhost:8080/employees/5 -delete
+
+
+
+
